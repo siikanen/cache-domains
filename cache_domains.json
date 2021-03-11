@@ -1,6 +1,11 @@
 {
 	"cache_domains": [
 		{
+			"name": "archmirrors",
+			"description": "Arch Linux mirrors",
+			"domain_files": ["archmirrors.txt"]
+		},
+		{
 			"name": "arenanet",
 			"description": "CDN for guild wars, HoT",
 			"domain_files": ["arenanet.txt"]
